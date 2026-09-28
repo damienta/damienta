@@ -78,7 +78,7 @@ ask_me:    [Terraform, AWS, CI/CD, "why is this deploy slow?"]
 | [**Tracker.dev**](https://internship-tracker-ruby.vercel.app) | Full-stack internship tracker with scraping pipelines and CI tests (dissertation) | React, Flask, PostgreSQL, Python |
 | **Runna Weekly Recap** | Hackathon MVP: weekly running summaries via Lambda, EventBridge and SQS | React Native, GraphQL, Terraform, AWS |
 | **Blue Sentry** | Real-time misinformation dashboard for Bluesky. 🏆 HackSussex 2025 winner | BERT, Gemini AI, React |
-| [**Portfolio**](https://damienta.pages.dev/) | This site: React 19, Vite, Tailwind v4, hosted on Cloudflare Pages | React, TypeScript, Tailwind |
+| [**Portfolio**](https://damienta.pages.dev/) | My personal site: React 19, Vite, Tailwind v4, hosted on Cloudflare Pages | React, TypeScript, Tailwind |
 
 ---
 
