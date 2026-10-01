@@ -19,7 +19,6 @@ I'm a **Platform / DevOps Engineer** with a First Class BSc in Computer Science 
 
 - 🏢 Currently a **Data Platform Engineer at Fidelity**, running Denodo, Oracle Analytics and Power BI
 - ⚙️ Day to day: infrastructure as code, CI/CD pipelines that last, secure and cost-efficient cloud architecture
-- 🚀 Cut a production deploy from **1000s to 300s** at Runna after diagnosing and reverting a live incident
 - 🏆 Won the **CASM Technology Track** at HackSussex 2025 with Blue Sentry
 - 🌱 Going forward: building platforms that help engineers move faster and make systems more reliable
 
@@ -28,9 +27,9 @@ I'm a **Platform / DevOps Engineer** with a First Class BSc in Computer Science 
 
 ```yaml
 role:      Data Platform Engineer @ Fidelity
-focus:     [Oracle Cloud migration, GitHub Actions pipelines, platform lifecycle]
+focus:     [GitHub Actions pipelines, Cloud, Automation]
 learning:  [Kubernetes, platform engineering at scale]
-ask_me:    [Terraform, AWS, CI/CD, "why is this deploy slow?"]
+ask_me:    [Terraform, AWS, CI/CD]
 ```
 
 ---
@@ -47,6 +46,7 @@ ask_me:    [Terraform, AWS, CI/CD, "why is this deploy slow?"]
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/><sub>Jenkins</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub>Bash</sub></td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td>
@@ -54,17 +54,8 @@ ask_me:    [Terraform, AWS, CI/CD, "why is this deploy slow?"]
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub>Java</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br/><sub>Maven</sub></td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br/><sub>GraphQL</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub>VS Code</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub>Bash</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br/><sub>Cloudflare</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br/><sub>Vite</sub></td>
   </tr>
 </table>
 
