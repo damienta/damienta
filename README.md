@@ -54,6 +54,7 @@ ask_me:    [Terraform, AWS, CI/CD]
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub>Java</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
   </tr>
