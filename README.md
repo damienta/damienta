@@ -67,10 +67,11 @@ ask_me:    [Terraform, AWS, CI/CD]
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Tracker.dev**](https://internship-tracker-ruby.vercel.app) | Full-stack internship tracker with scraping pipelines and CI tests (dissertation) | React, Flask, PostgreSQL, Python |
-| **Runna Weekly Recap** | Hackathon MVP: weekly running summaries via Lambda, EventBridge and SQS | React Native, GraphQL, Terraform, AWS |
-| **Blue Sentry** | Real-time misinformation dashboard for Bluesky. 🏆 HackSussex 2025 winner | BERT, Gemini AI, React |
+| [**Garmin Health Monitor**](https://github.com/damienta/garmin-health-monitor) | Personal sleep and recovery dashboard for my Garmin watch that updates itself every morning, on free plans | Python, React, Cloudflare Workers, D1, GitHub Actions |
+| [**Tracker.dev**](https://github.com/damienta/internship-tracker) | Full-stack internship tracker with scraping pipelines and CI tests (dissertation) | React, Flask, PostgreSQL, Python |
 | [**Portfolio**](https://damienta.pages.dev/) | My personal site: React 19, Vite, Tailwind v4, hosted on Cloudflare Pages | React, TypeScript, Tailwind |
+| **Runna Weekly Recap** | Hackathon MVP: weekly running summaries via Lambda, EventBridge and SQS | React Native, GraphQL, Terraform, AWS |
+| **Blue Sentry** | Real-time misinformation dashboard for Bluesky. HackSussex 2025 winner | BERT, Gemini AI, React |
 
 ---
 
