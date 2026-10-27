@@ -1,92 +1,106 @@
-<!-- [1] Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:1e3a8a,100:312e81&height=180&section=header&text=Damien%20Ta&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Platform%20%2F%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Damien Ta banner" />
+  <img src="assets/header.svg" width="100%" alt="Damien Ta, Platform / DevOps Engineer. Press start." />
 </p>
 
-<!-- [3] Social / contact badges -->
 <p align="center">
+  <a href="https://damienta.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-wiki%20article-0e7490?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/damien-ta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tadamien8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://damienta.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
-
-<!-- [4] About me -->
-## 👋 About me
-
-I'm a **Platform / DevOps Engineer** with a First Class BSc in Computer Science from the University of Southampton. I work across **AWS** and **Oracle Cloud**, from serverless deployments to migrating on-prem databases into the cloud.
-
-- 🏢 Currently a **Data Platform Engineer at Fidelity**, running Denodo, Oracle Analytics and Power BI
-- ⚙️ Day to day: infrastructure as code, CI/CD pipelines that last, secure and cost-efficient cloud architecture
-- 🏆 Won the **CASM Technology Track** at HackSussex 2025 with Blue Sentry
-- 🌱 Going forward: building platforms that help engineers move faster and make systems more reliable
-
-<!-- [5] Current focus (alternative/extra to About) -->
-## 🔭 Right now
-
-```yaml
-role:      Data Platform Engineer @ Fidelity
-focus:     [GitHub Actions pipelines, Cloud, Automation]
-learning:  [Kubernetes, platform engineering at scale]
-ask_me:    [Terraform, AWS, CI/CD]
-```
-
----
-
-<!-- [8] Languages & Tools -->
-## 🛠️ Languages & Tools
+## 🕹️ Player select
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub>AWS</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br/><sub>Terraform</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/><sub>Jenkins</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub>Bash</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub>Java</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td width="240" valign="top">
+      <img src="assets/damien.jpg" width="240" alt="Damien mid-run on a sunny day, in a white running vest" />
+    </td>
+    <td valign="top">
+
+```txt
+PLAYER     Damien Ta
+CLASS      Platform / DevOps Engineer
+GUILD      Fidelity, Data Platform team
+TRAINED    BSc Computer Science, Southampton (First)
+SIDE GAME  Running, logged on a Garmin
+PERK       If I do it twice, I automate it
+```
+
+I like building things that help me. If I want to know how I slept, what I've had on repeat or whether those headphones finally dropped in price, I'd rather build the tool than check five apps. Most of my side projects start that way, and they're where I try out tech I don't get to use at work.
+
+</td>
   </tr>
 </table>
 
----
+## 🗺️ Current quest
 
-<!-- [9] Featured projects -->
-## 🚀 Featured Projects
+At work I look after Denodo, Oracle Analytics and Power BI at Fidelity, and I'm moving on-prem databases into Oracle Cloud. Outside work I'm turning **spotify-stats** into a proper data platform, one stage at a time: the serverless ingestion on AWS is done, Airflow, dbt and an Iceberg lakehouse are next.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Garmin Health Monitor**](https://github.com/damienta/garmin-health-monitor) | Personal sleep and recovery dashboard for my Garmin watch that updates itself every morning, on free plans | Python, React, Cloudflare Workers, D1, GitHub Actions |
-| [**Tracker.dev**](https://github.com/damienta/internship-tracker) | Full-stack internship tracker with scraping pipelines and CI tests (dissertation) | React, Flask, PostgreSQL, Python |
-| [**Portfolio**](https://damienta.pages.dev/) | My personal site: React 19, Vite, Tailwind v4, hosted on Cloudflare Pages | React, TypeScript, Tailwind |
-| **Runna Weekly Recap** | Hackathon MVP: weekly running summaries via Lambda, EventBridge and SQS | React Native, GraphQL, Terraform, AWS |
-| **Blue Sentry** | Real-time misinformation dashboard for Bluesky. HackSussex 2025 winner | BERT, Gemini AI, React |
+## 📜 Quest log
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/damienta/spotify-stats">🎧 Spotify Stats</a></h3>
+      <sub><code>IN PROGRESS</code></sub>
+      <p>A stats.fm-style listening tracker I'm growing into a small data platform. A Lambda polls Spotify every 20 minutes, DuckDB crunches the stats and FastAPI serves them.</p>
+      <sub>Python · AWS Lambda · DynamoDB · DuckDB · Terraform</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/damienta/garmin-health-monitor">⌚ Garmin Health Monitor</a></h3>
+      <sub><code>LIVE · RUNS EVERY MORNING</code></sub>
+      <p>My own sleep and recovery dashboard. Every morning it pulls last night from my watch, flags a green, amber or red recovery light and drops a summary in Discord. Runs on free plans.</p>
+      <sub>Python · React · Cloudflare Workers · D1 · GitHub Actions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://damienta.pages.dev/">📖 Portfolio, the Wikipedia edition</a></h3>
+      <sub><code>LIVE</code></sub>
+      <p>My portfolio, written as a Wikipedia article about me. Infobox, contents sidebar, citations, light and dark mode, even a "last edited" footer.</p>
+      <sub>React · TypeScript · Vite · Cloudflare Pages</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/damienta/price-checker">🏷️ Price Checker</a></h3>
+      <sub><code>LIVE · 8AM DAILY</code></sub>
+      <p>Tell it what I want and a price to beat. Every morning it checks UK shops, PriceSpy, PriceRunner and HotUKDeals, then posts the best deal to Discord. No server, no database.</p>
+      <sub>Python · GitHub Actions · Discord</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/damienta/internship-tracker">🎯 Tracker.dev</a></h3>
+      <sub><code>COMPLETE · DISSERTATION</code></sub>
+      <p>A full-stack internship tracker with scrapers that pull in graduate and internship roles, plus application tracking and community threads.</p>
+      <sub>React · Flask · PostgreSQL · Pytest</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚔️ Boss fights (hackathons)</h3>
+      <p><b>Blue Sentry</b>, HackSussex 2025 winner. Real-time misinformation detection on Bluesky with BERT and Gemini.</p>
+      <p><b>Runna Weekly Recap</b>, internal hackathon. Weekly running summaries driven by EventBridge, SQS and Lambda.</p>
+    </td>
+  </tr>
+</table>
 
-<!-- [11] Analytics -->
-## 📊 Analytics
+## 🏆 Achievements
+
+<p align="center">
+  <img src="assets/achievements.svg" width="720" alt="Achievements: First Class Honours. CASM Technology Track winner at HackSussex 2025. Cut Runna's deploy time by 70 percent." />
+</p>
+
+## 🎒 Inventory
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,githubactions,jenkins,git,bash&perline=8" alt="AWS, Terraform, Docker, Linux, GitHub Actions, Jenkins, Git, Bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,java,spring,nodejs,flask,react,postgres&perline=8" alt="Python, TypeScript, Java, Spring Boot, Node.js, Flask, React, PostgreSQL" />
+</p>
+
+## 📈 Save file
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=damienta&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
 
----
-
-<!-- [12] Footer -->
 <p align="center">
-  Always happy to chat about the cloud, pipelines or anything platform. Reach out on <a href="https://www.linkedin.com/in/damien-ta">LinkedIn</a>.
+  <sub>Game saved. Say hi on <a href="https://www.linkedin.com/in/damien-ta">LinkedIn</a> if you want to talk cloud, pipelines or running.</sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e3a8a,100:0e7490&height=100&section=footer" width="100%" alt="footer" />
