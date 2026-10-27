@@ -1,92 +1,32 @@
-<!-- [1] Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:1e3a8a,100:312e81&height=180&section=header&text=Damien%20Ta&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Platform%20%2F%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Damien Ta banner" />
+  <img src="assets/player-card.svg" width="100%" alt="Damien Ta, Platform / DevOps Engineer at Fidelity" />
 </p>
 
-<!-- [3] Social / contact badges -->
+<img src="assets/h-about-me.svg" width="100%" alt="About me" />
+
+<img src="assets/about.svg" width="100%" alt="About me" />
+
+<img src="assets/h-experience.svg" width="100%" alt="Experience" />
+
+<img src="assets/experience.svg" width="100%" alt="Experience: Data Platform Engineer at Fidelity, Platform Engineer Intern at Runna, DevOps Engineer Intern at S&amp;P Global" />
+
+<img src="assets/h-projects.svg" width="100%" alt="Projects" />
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/damien-ta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tadamien8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://damienta.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/damienta/spotify-stats"><img src="assets/card-0.svg" width="49%" alt="Spotify Stats" /></a>
+  <a href="https://github.com/damienta/garmin-health-monitor"><img src="assets/card-1.svg" width="49%" alt="Garmin Health Monitor" /></a>
+  <a href="https://damienta.pages.dev/"><img src="assets/card-2.svg" width="49%" alt="Portfolio, the Wikipedia edition" /></a>
+  <a href="https://github.com/damienta/price-checker"><img src="assets/card-3.svg" width="49%" alt="Price Checker" /></a>
+  <a href="https://github.com/damienta/internship-tracker"><img src="assets/card-4.svg" width="49%" alt="Tracker.dev" /></a>
+  <img src="assets/card-5.svg" width="49%" alt="Hackathons" />
 </p>
 
----
+<img src="assets/h-languages-tools.svg" width="100%" alt="Languages & Tools" />
 
-<!-- [4] About me -->
-## 👋 About me
+<img src="assets/tools.svg" width="100%" alt="Languages and tools" />
 
-I'm a **Platform / DevOps Engineer** with a First Class BSc in Computer Science from the University of Southampton. I work across **AWS** and **Oracle Cloud**, from serverless deployments to migrating on-prem databases into the cloud.
-
-- 🏢 Currently a **Data Platform Engineer at Fidelity**, running Denodo, Oracle Analytics and Power BI
-- ⚙️ Day to day: infrastructure as code, CI/CD pipelines that last, secure and cost-efficient cloud architecture
-- 🏆 Won the **CASM Technology Track** at HackSussex 2025 with Blue Sentry
-- 🌱 Going forward: building platforms that help engineers move faster and make systems more reliable
-
-<!-- [5] Current focus (alternative/extra to About) -->
-## 🔭 Right now
-
-```yaml
-role:      Data Platform Engineer @ Fidelity
-focus:     [GitHub Actions pipelines, Cloud, Automation]
-learning:  [Kubernetes, platform engineering at scale]
-ask_me:    [Terraform, AWS, CI/CD]
-```
-
----
-
-<!-- [8] Languages & Tools -->
-## 🛠️ Languages & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub>AWS</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br/><sub>Terraform</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br/><sub>Jenkins</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub>Bash</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub>Java</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br/><sub>Spring Boot</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub>Flask</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub>React</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
-  </tr>
-</table>
-
----
-
-<!-- [9] Featured projects -->
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Garmin Health Monitor**](https://github.com/damienta/garmin-health-monitor) | Personal sleep and recovery dashboard for my Garmin watch that updates itself every morning, on free plans | Python, React, Cloudflare Workers, D1, GitHub Actions |
-| [**Tracker.dev**](https://github.com/damienta/internship-tracker) | Full-stack internship tracker with scraping pipelines and CI tests (dissertation) | React, Flask, PostgreSQL, Python |
-| [**Portfolio**](https://damienta.pages.dev/) | My personal site: React 19, Vite, Tailwind v4, hosted on Cloudflare Pages | React, TypeScript, Tailwind |
-| **Runna Weekly Recap** | Hackathon MVP: weekly running summaries via Lambda, EventBridge and SQS | React Native, GraphQL, Terraform, AWS |
-| **Blue Sentry** | Real-time misinformation dashboard for Bluesky. HackSussex 2025 winner | BERT, Gemini AI, React |
-
----
-
-<!-- [11] Analytics -->
-## 📊 Analytics
+<img src="assets/h-analytics.svg" width="100%" alt="Analytics" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=damienta&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
-
----
-
-<!-- [12] Footer -->
-<p align="center">
-  Always happy to chat about the cloud, pipelines or anything platform. Reach out on <a href="https://www.linkedin.com/in/damien-ta">LinkedIn</a>.
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e3a8a,100:0e7490&height=100&section=footer" width="100%" alt="footer" />
