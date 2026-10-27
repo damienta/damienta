@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Up next: you. Say hi on LinkedIn.">
+  <style>
+    .sans{font-family:"Helvetica Neue",-apple-system,"Segoe UI",Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .prog{transform:scaleX(0);transform-box:fill-box;animation:p 20s linear infinite}@keyframes p{to{transform:scaleX(1)}}
+    .eq rect{transform-box:fill-box;transform-origin:bottom;animation:eq .9s ease-in-out infinite alternate}
+    .eq rect:nth-child(2){animation-delay:-.3s}.eq rect:nth-child(3){animation-delay:-.6s}
+    @keyframes eq{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+  </style>
+  <rect width="1200" height="96" rx="16" fill="#181818"/>
+  <rect x="20" y="16" width="64" height="64" rx="8" fill="#1ed760"/>
+  <path d="M42 34 v28 l24 -14z" fill="#121212"/>
+  <text x="104" y="40" class="mono" font-size="12" fill="#1ed760" letter-spacing="2">UP NEXT</text>
+  <text x="104" y="64" class="sans" font-size="20" font-weight="700" fill="#fff">You. Say hi on LinkedIn</text>
+  <text x="104" y="84" class="sans" font-size="13" fill="#b3b3b3">cloud, pipelines, running, music recs</text>
+  <rect x="560" y="46" width="440" height="4" rx="2" fill="#4d4d4d"/>
+  <rect class="prog" x="560" y="46" width="440" height="4" rx="2" fill="#1ed760"/>
+  <g class="eq" fill="#1ed760"><rect x="1120" y="36" width="6" height="24" rx="2"/><rect x="1130" y="36" width="6" height="24" rx="2"/><rect x="1140" y="36" width="6" height="24" rx="2"/></g>
+</svg>
