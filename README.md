@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/player-card.svg" width="100%" alt="Player card: Damien Ta, Platform / DevOps Engineer at Fidelity. Now playing: building things that help me." />
+  <img src="assets/player-card.svg" width="100%" alt="Player card: Damien Ta, Platform / DevOps Engineer at Fidelity" />
 </p>
 
 <p align="center">
@@ -13,10 +13,6 @@
 I like building things that help me. If I want to know how I slept, what I've had on repeat or whether something I want finally dropped in price, I'd rather build the tool than check five apps. Most of my side projects start that way, and they're where I try out tech I don't get to use at work.
 
 Day to day I look after Denodo, Oracle Analytics and Power BI at Fidelity, and I'm moving on-prem databases into Oracle Cloud.
-
-<p align="center">
-  <img src="assets/wrapped.svg" width="100%" alt="Damien Wrapped: top genre platform engineering, 70% faster deploys at Runna, HackSussex 2025 winner, First Class Honours, most played Terraform, GitHub Actions and Python." />
-</p>
 
 ### 📜 Quest log
 
