@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="364" viewBox="0 0 1200 364" role="img" aria-label="Experience: Data Platform Engineer at Fidelity, Sep 2026 – Now. Platform Engineer Intern at Runna, Jun – Sep 2026. DevOps Engineer Intern at S&amp;P Global, Jun – Aug 2025">
-  <style>.e rect{transform-box:fill-box;transform-origin:bottom;animation:e .9s ease-in-out infinite alternate}.e rect:nth-child(2){animation-delay:-.3s}.e rect:nth-child(3){animation-delay:-.6s}@keyframes e{from{transform:scaleY(.3)}to{transform:scaleY(1)}}</style>
+  <style>.e rect{transform-box:fill-box;transform-origin:bottom;animation:e 2.4s ease-in-out infinite alternate}.e rect:nth-child(2){animation-delay:-.8s}.e rect:nth-child(3){animation-delay:-1.6s}@keyframes e{from{transform:scaleY(.5)}to{transform:scaleY(1)}}</style>
   <rect width="1200" height="364" rx="20" fill="#121212"/>
   <text x="54" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#b3b3b3" text-anchor="middle">#</text>
   <text x="90" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#b3b3b3" letter-spacing="1.5">TITLE</text>

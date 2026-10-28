@@ -28,5 +28,5 @@
 <img src="assets/h-analytics.svg" width="100%" alt="Analytics" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=damienta&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=damienta&hide_border=true&background=121212&ring=1DB954&fire=1ED760&currStreakLabel=1ED760&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B3B3B3&stroke=2A2A2A" alt="GitHub streak" />
 </p>
