@@ -27,8 +27,8 @@
       </g>
     </g>
     <text class="cite" x="440" y="150" font-family="Georgia,'Times New Roman',serif" font-size="40" fill="#3366cc">[1]</text>
-  <text x="48" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#202122" letter-spacing="3">THE FREE PORTFOLIO</text>
-  <text x="44" y="352" font-family="'Helvetica Neue',-apple-system,'Segoe UI',Arial,sans-serif" font-size="50" font-weight="900" fill="#202122">wiki-portfolio</text>
+  <text x="48" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#202122" letter-spacing="3">PERSONAL PORTFOLIO</text>
+  <text x="44" y="352" font-family="'Helvetica Neue',-apple-system,'Segoe UI',Arial,sans-serif" font-size="64" font-weight="900" fill="#202122">portfolio</text>
   <text x="48" y="402" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#202122" opacity=".85">React → Vite → Cloudflare Pages</text>
 </svg></g>
   <text x="20" y="362" font-family="'Helvetica Neue',-apple-system,'Segoe UI',Arial,sans-serif" font-size="24" font-weight="800" fill="#ffffff">Portfolio, the Wikipedia edition</text>
